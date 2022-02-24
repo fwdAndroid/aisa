@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389212208170",
+    "project_id": "aisa-app-e6292",
+    "storage_bucket": "aisa-app-e6292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389212208170:android:3dc14856448b4ad8d35753",
+        "android_client_info": {
+          "package_name": "com.example.aisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389212208170-176bu6lalcp2u2fa01gg1eaeni83irqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8Fp3Azue5nzgtJopkeptYbfTn8eCsBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389212208170-176bu6lalcp2u2fa01gg1eaeni83irqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
